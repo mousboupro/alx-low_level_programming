@@ -29,7 +29,10 @@ else
 {
 	printf("%d", i);
 }
-printf(" ");
+if (i != 100)
+{
+	printf(" ");
+}
 }
 printf("\n");
 return (0);
