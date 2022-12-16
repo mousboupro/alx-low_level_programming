@@ -1,12 +1,9 @@
-
 #include "main.h"
 
 /**
- * print_numbers - main.
+ * print_most_numbers - main.
  * Return: smthing.
  */
-
-
 
 void print_most_numbers(void)
 {
