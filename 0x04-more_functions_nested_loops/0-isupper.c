@@ -2,8 +2,8 @@
 
 
 /**
- * main - main.
- *
+ * _isupper - main.
+ * @c: parameter
  * Return: Always 0.
  */
 
