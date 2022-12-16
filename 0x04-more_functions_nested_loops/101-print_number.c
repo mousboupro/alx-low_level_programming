@@ -3,7 +3,8 @@
 /**
  * print_number - main
  * @n: para
- */
+ * Return: void
+ * /
 void print_number(int n)
 {
 if (n < 0)
