@@ -27,7 +27,7 @@ else if (i % 5 == 0)
 }
 else
 {
-	printf("%d ", i);
+	printf("%d", i);
 }
 printf(" ");
 }
