@@ -4,12 +4,12 @@
 
 #include "main.h"
 /**
- * _puts - function
+ * print_rev - function
  * @str: parameter;
  * Return: leng
  */
 
-void _puts(char *s)
+void print_rev(char *s)
 {
 int len = _strlen(s);
 while (len--) {
