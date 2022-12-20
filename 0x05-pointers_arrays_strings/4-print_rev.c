@@ -9,7 +9,7 @@
  * Return: leng
  */
 
-void print_rev(char *s)
+void _puts(char *s)
 {
 int len = _strlen(s);
 while (len--) {
