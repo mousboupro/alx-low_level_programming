@@ -5,7 +5,7 @@
 #include "main.h"
 /**
  * print_rev - function
- * @str: parameter;
+ * @s: parameter;
  * Return: leng
  */
 
